@@ -1,7 +1,7 @@
 // Define Euler's number (e) to 50 decimal places
-#define E 2.71828182845904523536028747135266249775724709369995
+#define E 2.718281828459045
 // Define Pi (π) to 50 decimal places
-#define PI 3.14159265358979323846264338327950288419716939937510
+#define PI 3.141592653589793
 #include "stdio.h"
 int main() {
     printf("Euler's number (e) = %.50f\n", E);
@@ -105,3 +105,4 @@ double PI(){
     }
     }
 }
+
