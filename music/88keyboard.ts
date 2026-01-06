@@ -4,7 +4,6 @@ const B3 = 30.8677
 
 const C3 = 32.7032
 const Cf4 = 34.6478
-
 const D6 = 36.7081
 const Df7 = 36.7081
 const E8 = 41.2034
@@ -15,6 +14,7 @@ const Gf12 = 51.9131
 const A13 = 55.0000
 const Af14 = 58.2705
 const B15 = 61.7354
+
 const C16 = 65.4064
 const Cf17 = 69.2956
 const D18 = 73.4162
@@ -27,6 +27,7 @@ const Gf24 = 103.8261
 const A25 = 110.0000
 const Af26 = 116.5416
 const B27 = 123.4708
+
 const C28 = 130.8127
 const Cf29 = 138.5913
 const D30 = 146.8324
@@ -39,6 +40,7 @@ const Gf36 = 207.6523
 const A37 = 220.0000
 const Af38 = 233.0816
 const B39 = 246.9416
+
 const C40 = 261.6255
 const Cf41 = 277.1826
 const D42 = 293.6643
@@ -65,6 +67,7 @@ const Gf60 = 830.6094
 const A61 = 880.0000
 const Af62 = 932.3270
 const B63 = 987.7666
+
 const C64 = 1046.502
 const Cf65 = 1108.731
 const D66 = 1174.659
@@ -77,6 +80,7 @@ const Gf72 = 1661.221
 const A73 = 1760.000
 const Af74 = 1864.655
 const B75 = 1975.533
+
 const C76 = 2093.005
 const Cf77 = 2217.466
 const D78 = 2349.318
@@ -90,6 +94,3 @@ const A85 = 3520.000
 const Af86 = 3729.310
 const B87 = 3951.066
 const C88 = 4186.009
-
-
-
